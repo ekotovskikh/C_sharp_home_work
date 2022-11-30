@@ -1,0 +1,15 @@
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\bin\Debug\net7.0\Task13.exe
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\bin\Debug\net7.0\Task13.deps.json
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\bin\Debug\net7.0\Task13.runtimeconfig.json
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\bin\Debug\net7.0\Task13.dll
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\bin\Debug\net7.0\Task13.pdb
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\obj\Debug\net7.0\Task13.csproj.AssemblyReference.cache
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\obj\Debug\net7.0\Task13.dll
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\obj\Debug\net7.0\refint\Task13.dll
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\obj\Debug\net7.0\Task13.pdb
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\obj\Debug\net7.0\Task13.genruntimeconfig.cache
+C:\Git\C#_19.11.22\Seminar_2_24.11.22\Task13\obj\Debug\net7.0\ref\Task13.dll
