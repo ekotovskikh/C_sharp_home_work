@@ -1,0 +1,15 @@
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\obj\Debug\net7.0\Task6.csproj.AssemblyReference.cache
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\obj\Debug\net7.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\obj\Debug\net7.0\Task6.AssemblyInfoInputs.cache
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\obj\Debug\net7.0\Task6.AssemblyInfo.cs
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\obj\Debug\net7.0\Task6.csproj.CoreCompileInputs.cache
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\bin\Debug\net7.0\Task6.exe
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\bin\Debug\net7.0\Task6.deps.json
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\bin\Debug\net7.0\Task6.runtimeconfig.json
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\bin\Debug\net7.0\Task6.dll
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\bin\Debug\net7.0\Task6.pdb
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\obj\Debug\net7.0\Task6.dll
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\obj\Debug\net7.0\refint\Task6.dll
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\obj\Debug\net7.0\Task6.pdb
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\obj\Debug\net7.0\Task6.genruntimeconfig.cache
+C:\Git\C#_19.11.22\Seminar_1_21.11.22\Task6\obj\Debug\net7.0\ref\Task6.dll
