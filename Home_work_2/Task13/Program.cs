@@ -3,17 +3,14 @@
 Console.Write("Введите число: "); 
 int n = Convert.ToInt32(Console.ReadLine()); //ввод числа
 
-if (n > 99)
-{ int n1 = n/100;
-     int n2 = n % 10;
-        Console.Write($"3-е число: {n2}"); 
-        }
-else
-{
-Console.Write("3-е число отсутствует"); 
-}
-
-
+if (n < 100)     
+Console.WriteLine("Третьей цифры нет, попробуйте еще раз!"); 
+else 
+{     
+        while (n > 1000)        
+         n = n / 10;          
+         Console.WriteLine ($"Третья цифра: {(n%10)}"); 
+         }
  
         
 

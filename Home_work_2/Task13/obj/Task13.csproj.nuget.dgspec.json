@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\C#_19.11.22\\Seminar_2_24.11.22\\Task13\\Task13.csproj": {}
+    "C:\\Git\\C#_19.11.22\\Home_work\\C_sharp_home_work\\Home_work_2\\Task13\\Task13.csproj": {}
   },
   "projects": {
-    "C:\\Git\\C#_19.11.22\\Seminar_2_24.11.22\\Task13\\Task13.csproj": {
+    "C:\\Git\\C#_19.11.22\\Home_work\\C_sharp_home_work\\Home_work_2\\Task13\\Task13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\C#_19.11.22\\Seminar_2_24.11.22\\Task13\\Task13.csproj",
+        "projectUniqueName": "C:\\Git\\C#_19.11.22\\Home_work\\C_sharp_home_work\\Home_work_2\\Task13\\Task13.csproj",
         "projectName": "Task13",
-        "projectPath": "C:\\Git\\C#_19.11.22\\Seminar_2_24.11.22\\Task13\\Task13.csproj",
+        "projectPath": "C:\\Git\\C#_19.11.22\\Home_work\\C_sharp_home_work\\Home_work_2\\Task13\\Task13.csproj",
         "packagesPath": "C:\\Users\\d_kot\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\C#_19.11.22\\Seminar_2_24.11.22\\Task13\\obj\\",
+        "outputPath": "C:\\Git\\C#_19.11.22\\Home_work\\C_sharp_home_work\\Home_work_2\\Task13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\d_kot\\AppData\\Roaming\\NuGet\\NuGet.Config"
