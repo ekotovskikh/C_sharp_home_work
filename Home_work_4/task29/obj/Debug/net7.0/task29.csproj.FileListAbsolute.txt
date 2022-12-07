@@ -1,0 +1,15 @@
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\bin\Debug\net7.0\task29.exe
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\bin\Debug\net7.0\task29.deps.json
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\bin\Debug\net7.0\task29.runtimeconfig.json
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\bin\Debug\net7.0\task29.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\bin\Debug\net7.0\task29.pdb
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\obj\Debug\net7.0\task29.csproj.AssemblyReference.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\obj\Debug\net7.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\obj\Debug\net7.0\task29.AssemblyInfoInputs.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\obj\Debug\net7.0\task29.AssemblyInfo.cs
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\obj\Debug\net7.0\task29.csproj.CoreCompileInputs.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\obj\Debug\net7.0\task29.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\obj\Debug\net7.0\refint\task29.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\obj\Debug\net7.0\task29.pdb
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\obj\Debug\net7.0\task29.genruntimeconfig.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task29\obj\Debug\net7.0\ref\task29.dll

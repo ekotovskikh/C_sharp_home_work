@@ -1,0 +1,15 @@
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\bin\Debug\net7.0\task25.exe
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\bin\Debug\net7.0\task25.deps.json
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\bin\Debug\net7.0\task25.runtimeconfig.json
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\bin\Debug\net7.0\task25.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\bin\Debug\net7.0\task25.pdb
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\obj\Debug\net7.0\task25.csproj.AssemblyReference.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\obj\Debug\net7.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\obj\Debug\net7.0\task25.AssemblyInfoInputs.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\obj\Debug\net7.0\task25.AssemblyInfo.cs
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\obj\Debug\net7.0\task25.csproj.CoreCompileInputs.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\obj\Debug\net7.0\task25.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\obj\Debug\net7.0\refint\task25.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\obj\Debug\net7.0\task25.pdb
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\obj\Debug\net7.0\task25.genruntimeconfig.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_4\task25\obj\Debug\net7.0\ref\task25.dll
