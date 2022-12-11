@@ -1,0 +1,15 @@
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\bin\Debug\net7.0\task34.exe
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\bin\Debug\net7.0\task34.deps.json
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\bin\Debug\net7.0\task34.runtimeconfig.json
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\bin\Debug\net7.0\task34.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\bin\Debug\net7.0\task34.pdb
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\obj\Debug\net7.0\task34.csproj.AssemblyReference.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\obj\Debug\net7.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\obj\Debug\net7.0\task34.AssemblyInfoInputs.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\obj\Debug\net7.0\task34.AssemblyInfo.cs
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\obj\Debug\net7.0\task34.csproj.CoreCompileInputs.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\obj\Debug\net7.0\task34.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\obj\Debug\net7.0\refint\task34.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\obj\Debug\net7.0\task34.pdb
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\obj\Debug\net7.0\task34.genruntimeconfig.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_5\task34\obj\Debug\net7.0\ref\task34.dll
