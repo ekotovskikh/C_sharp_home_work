@@ -1,0 +1,15 @@
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\bin\Debug\net7.0\task43.exe
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\bin\Debug\net7.0\task43.deps.json
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\bin\Debug\net7.0\task43.runtimeconfig.json
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\bin\Debug\net7.0\task43.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\bin\Debug\net7.0\task43.pdb
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\obj\Debug\net7.0\task43.csproj.AssemblyReference.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\obj\Debug\net7.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\obj\Debug\net7.0\task43.AssemblyInfoInputs.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\obj\Debug\net7.0\task43.AssemblyInfo.cs
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\obj\Debug\net7.0\task43.csproj.CoreCompileInputs.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\obj\Debug\net7.0\task43.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\obj\Debug\net7.0\refint\task43.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\obj\Debug\net7.0\task43.pdb
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\obj\Debug\net7.0\task43.genruntimeconfig.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\Home_work_6\task43\obj\Debug\net7.0\ref\task43.dll
