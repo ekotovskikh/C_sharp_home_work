@@ -15,7 +15,7 @@ void InputArr(int[] array)
           int ReleaseArr(int[] array) 
           {     
             int sumUnOdd = 0;     
-            for (int i = 0; i < array.Length; i+=2)         
+            for (int i = 1; i < array.Length; i+=2)         
             sumUnOdd += array[i];     
             return sumUnOdd; 
             }   
