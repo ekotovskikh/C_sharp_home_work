@@ -13,4 +13,6 @@ double k1 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Ведите значение k2: "); 
 double k2 = Convert.ToDouble(Console.ReadLine());
 
-Console.Write($"Точка пересечения двух прямых: {(k1*(b2-b1)/(k1-k2)+b1)} ");
+Console.WriteLine((b2-b1)/(k1-k2));
+
+Console.WriteLine(k2*(b2-b1)/(k1-k2)+b2);
