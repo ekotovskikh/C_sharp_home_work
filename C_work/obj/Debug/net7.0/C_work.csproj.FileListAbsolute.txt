@@ -1,0 +1,15 @@
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\bin\Debug\net7.0\C_work.exe
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\bin\Debug\net7.0\C_work.deps.json
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\bin\Debug\net7.0\C_work.runtimeconfig.json
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\bin\Debug\net7.0\C_work.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\bin\Debug\net7.0\C_work.pdb
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\obj\Debug\net7.0\C_work.csproj.AssemblyReference.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\obj\Debug\net7.0\C_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\obj\Debug\net7.0\C_work.AssemblyInfoInputs.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\obj\Debug\net7.0\C_work.AssemblyInfo.cs
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\obj\Debug\net7.0\C_work.csproj.CoreCompileInputs.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\obj\Debug\net7.0\C_work.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\obj\Debug\net7.0\refint\C_work.dll
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\obj\Debug\net7.0\C_work.pdb
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\obj\Debug\net7.0\C_work.genruntimeconfig.cache
+C:\Git\C#_19.11.22\Home_work\C_sharp_home_work\C_work\obj\Debug\net7.0\ref\C_work.dll
